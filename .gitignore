@@ -1,5 +1,7 @@
+tmp
 *.h5
 logs
+UrbanSound8K
 UrbanSound8k
 MANIFEST
 build
